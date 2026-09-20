@@ -4,19 +4,18 @@
  */
 
 import React, { useState } from 'react';
-import { Header } from './components/Header';
-import { HeroSection } from './components/HeroSection';
-import { RoadmapAtAGlance } from './components/RoadmapAtAGlance';
-import { PhaseDetailsSection } from './components/PhaseDetailsSection';
-import { TokenomicsSection } from './components/TokenomicsSection';
-import { DeflationarySection } from './components/DeflationarySection';
-import { InvestmentSimulator } from './components/InvestmentSimulator';
-import { VisionSection } from './components/VisionSection';
-import { WhitepaperModal } from './components/WhitepaperModal';
-import { ShareModal } from './components/ShareModal';
-import { Footer } from './components/Footer';
-import { Language } from './types';
-import { SpaceBackground } from './components/SpaceBackground';
+import { Header } from './Header';
+import { HeroSection } from './HeroSection';
+import { RoadmapAtAGlance } from './RoadmapAtAGlance';
+import { PhaseDetailsSection } from './PhaseDetailsSection';
+import { TokenomicsSection } from './TokenomicsSection';
+import { DeflationarySection } from './DeflationarySection';
+import { InvestmentSimulator } from './InvestmentSimulator';
+import { VisionSection } from './VisionSection';
+import { WhitepaperModal } from './WhitepaperModal';
+import { ShareModal } from './ShareModal';
+import { Footer } from './Footer';
+import { SpaceBackground } from './SpaceBackground';
 import { Share2 } from 'lucide-react';
 import { dirhamCoinImg } from './assetImports';
 
